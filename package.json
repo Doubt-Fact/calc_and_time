@@ -9,9 +9,9 @@
     "start": "node ./build/index.js",
     "dev": "tsc && node ./build/index.js"
   },
-  "keywords": ["mcp", "calculator", "datetime", "timestamp", "random"],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["mcp", "calculator", "datetime", "timestamp", "random","date_arithmetic"],
+  "author": "Doubt-Fact",
+  "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "zod": "^3.24.1",
