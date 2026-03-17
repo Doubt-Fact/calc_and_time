@@ -3,7 +3,7 @@ MCP calc_and_time
 
 为模型提供时间和简单计算工具的MCP工具
 
-MCP tools that provide time and simple calculation utilities for the model
+A MCP server for calculation, date/time, timestamp conversion, and random number generation
 
 ## tools
 
